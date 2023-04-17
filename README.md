@@ -1,8 +1,8 @@
-HTML Splitter
+HTML, CSS, JS Extractor
 
 Readme is wrote by ChatGPT
 
-HTML Splitter is a simple and easy-to-use desktop application that allows you to extract CSS, JavaScript, and HTML content from an HTML file, and save them as separate files. It is particularly useful for web developers who need to separate the different components of an HTML file for better organization and readability.
+HTML, CSS, JS Extractor is a simple and easy-to-use desktop application that allows you to extract CSS, JavaScript, and HTML content from an HTML file, and save them as separate files. It is particularly useful for web developers who need to separate the different components of an HTML file for better organization and readability.
 
 Features
 Extract CSS, JavaScript, and HTML content from an HTML file
